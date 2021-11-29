@@ -111,6 +111,9 @@
 				Base,
 			);
 			mainGroup = AF4C37B0274D6756004B1BA7;
+			packageReferences = (
+				AFA92A12275522A8003E854D /* XCRemoteSwiftPackageReference "appleassignment" */,
+			);
 			productRefGroup = AF4C37BA274D6756004B1BA7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -358,6 +361,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AFA92A12275522A8003E854D /* XCRemoteSwiftPackageReference "appleassignment" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/reynoldsidhu/appleassignment";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = AF4C37B1274D6756004B1BA7 /* Project object */;
 }
